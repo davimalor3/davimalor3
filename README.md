@@ -72,11 +72,9 @@ Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng
 
 ---
 
-<div align="center>
 <h3>🐍 Contributions</h3>
-  
+<div align="center">
 <img src="https://raw.githubusercontent.com/davimalor3/davimalor3/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 ---
