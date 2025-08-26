@@ -6,7 +6,7 @@
 
 <h3>👨‍💻 About Me</h3>
 <p align="left">
-🔒 Welcome to my dark side of the web!<br>
+<b>🔒 Welcome to my dark side of the web!</b><br>
 
 - Cybersecurity student and Full Stack Developer passionate about all kinds of technology.   
 - I'm studying Computer Science at Estácio University.  
@@ -31,12 +31,15 @@
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs) 
 ![React](https://skillicons.dev/icons?i=react)<br>
+
 **Databases**  
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 ![Postgres](https://skillicons.dev/icons?i=postgres)<br>
+
 **DevOps & Cloud**  
 ![Docker](https://skillicons.dev/icons?i=docker) 
 ![AWS](https://skillicons.dev/icons?i=aws)<br>
+
 **Others**  
 ![PowerShell](https://skillicons.dev/icons?i=powershell) 
 ![HTML](https://skillicons.dev/icons?i=html) 
