@@ -1,19 +1,3 @@
-<!--
-**davimalor3/davimalor3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h2 align="center">Hi there, I'm Davi 👋</h2>
 
 <h5 align="center">💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🎓 Computer Scientist</h5>
@@ -22,17 +6,20 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 About Me</h3>
 <p align="left">
-🔒 Welcome to my dark side of the web!<br> I'm <b>Davi Nobre</b>, Cybersecurity student and Full Stack Developer.<br><br>
-- Passionate about technology, security, and software development.<br>
-- I'm studying Computer Science at Estácio University <br>
-- I've worked with C++, Python, Java and Javascript frameworks.<br>
-- I love to explore how things work under the hood and build solutions from scratch.<br>
-- Interested in <b>Offensive Security, Pentesting, Reverse Engineering and Web Development</b>.<br>
-- Currently improving my skills in <b>Java | Docker | Cloud Security</b>.
+🔒 Welcome to my dark side of the web!<br>
+
+- Cybersecurity student and Full Stack Developer passionate about all kinds of technology.   
+- I'm studying Computer Science at Estácio University.  
+- I've worked with C++, Python, Java and JavaScript frameworks.  
+- Obsessed with dissecting systems, understanding their internals, and rebuilding them with a deeper insight.  
+- Currently studying compilers, assembly, and low-level programming concepts.  
+- Interested in Offensive Security, Pentesting, Reverse Engineering, and Web Development.  
+- Currently improving my skills in Java | Docker | Cloud Security.  
+
 </p>
 
 ---
-
+<div align="center">
 <h3>⚙️ Tech Stack</h3>
 
 **Languages & Frameworks**<br>
@@ -59,7 +46,7 @@ Here are some ideas to get you started:
 <p>
 Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng
 </p>
-
+</div>
 
 ---
 
