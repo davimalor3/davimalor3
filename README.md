@@ -20,34 +20,30 @@
 
 ---
 <div align="center">
-<h3>⚙️ Tech Stack</h3>
+<h3><b>⚙️ Tech Stack</h3>
 
 **Languages & Frameworks**<br>
 ![Java](https://skillicons.dev/icons?i=java) 
 ![Python](https://skillicons.dev/icons?i=py) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
 ![C#](https://skillicons.dev/icons?i=cs) 
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![TypeScript](https://skillicons.dev/icons?i=typescript) 
-![NodeJS](https://skillicons.dev/icons?i=nodejs) 
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)<br>
 
-**Databases**  
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![Postgres](https://skillicons.dev/icons?i=postgres)<br>
-
-**DevOps & Cloud**  
-![Docker](https://skillicons.dev/icons?i=docker) 
-![AWS](https://skillicons.dev/icons?i=aws)<br>
-
 **Others**  
+![HTML](https://skillicons.dev/icons?i=html)
+![PHP](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![PHP](https://skillicons.dev/icons?i=bootstrap)
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker) 
+![AWS](https://skillicons.dev/icons?i=aws)
 ![PowerShell](https://skillicons.dev/icons?i=powershell) 
-![HTML](https://skillicons.dev/icons?i=html) 
-![PHP](https://skillicons.dev/icons?i=php)
 
 <h3>🔐 Cybersecurity Tools</h3>
 <p>
-Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng
+Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng</b>
 </p>
 </div>
 
@@ -69,7 +65,7 @@ Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng
 
 ---
 
-<h3>🌍 Connect with Me</h3>
+<h3>🌍 Contacs</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/davi-nobre-57206b377/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
