@@ -68,8 +68,9 @@ FLAG{OSINT_ME_AND_DIE_TRYING}
 [!] This system will be destroyed in 10 secs.
 ```
 *Oh Shi...! That was a trap! I gotta get out of here.*
-
-
+<div align="center">
+<img src="img/img_final.png" alt="final" width="600"/>
+</div>
 ---
 
 <h3>📊 GitHub Stats and Contributions</h3>
