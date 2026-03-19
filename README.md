@@ -71,34 +71,6 @@ FLAG{OSINT_ME_AND_DIE_TRYING}
 *Oh Shi...! That was a trap! I gotta get out of here.*
 
 
-<div align="center">
-<h3><b>⚙️ Tech Stack</h3>
-
-**Languages & Frameworks**<br>
-![Java](https://skillicons.dev/icons?i=java) 
-![Python](https://skillicons.dev/icons?i=py) 
-![C++](https://skillicons.dev/icons?i=cpp) 
-![C#](https://skillicons.dev/icons?i=cs) 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)<br>
-
-**Others**  
-![HTML](https://skillicons.dev/icons?i=html)
-![PHP](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![PHP](https://skillicons.dev/icons?i=bootstrap)
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Docker](https://skillicons.dev/icons?i=docker) 
-![AWS](https://skillicons.dev/icons?i=aws)
-![PowerShell](https://skillicons.dev/icons?i=powershell) 
-
-<h3>🔐 Cybersecurity Tools</h3>
-<p>
-Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng</b>
-</p>
-</div>
-
 ---
 
 <h3>📊 GitHub Stats and Contributions</h3>
@@ -108,17 +80,9 @@ Burp Suite | Nmap | Wireshark | Metasploit | Ghidra | Aircrack-ng</b>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimalor3&layout=compact&theme=tokyonight" height="160" />
 </div>
 
----
 
-<h3>🐍 Contributions</h3>
-<div align="center">
-<img src="https://raw.githubusercontent.com/davimalor3/davimalor3/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<h3>🌍 Contacs</h3>
-<p align="left">
+<h3 align="center">🌍 Contacs</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/davi-nobre-57206b377/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
