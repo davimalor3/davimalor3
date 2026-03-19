@@ -7,8 +7,7 @@
 $ whoami
 intruder
 ```
-
-##### *Alright, let's go in! Let's see what's in this machine...💭*
+ *Alright, let's go in! Let's see what's in this machine...💭*
 
 ```bash
 $ tree
@@ -21,7 +20,7 @@ $ tree
     ├── target_list.txt
     └── enumerate.py
 ```
-##### *Interesting...*
+ *Interesting...*
 
 ```yaml
 $ cat user/profile.txt
