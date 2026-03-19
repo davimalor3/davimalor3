@@ -26,8 +26,8 @@ $ tree
 ```yaml
 $ cat user/profile.txt
 name: Davi_Nobre
-role: Full Stack Developer
-    "Passionate about all kinds of technology and currently studying Computer Science at Estácio University. 
+role: Full_Stack_Developer
+    "Passionate about all kinds of technology and currently studying Computer Science. 
     I enjoy building, exploring, and understanding how things work across the stack, driven by curiosity and new 
     challenges. Outside of coding, I’m a gamer at heart and enjoy reconnecting with nature. Want to know more about me?
     OSINT me… or die trying.."
@@ -45,7 +45,8 @@ cybersecurity:
 
 ```
 
-*Wait... Cyber security? too... Offensive... CTFs? no way!💭*
+*Wait... Cyber security? too... Offensive... CTFs? no way!💭*<br>
+*Let's check that OSINT directory, there might be something interesting there.*
 
 ```bash
 $ cat osint/enumerate.py
@@ -53,8 +54,21 @@ $ cat osint/enumerate.py
 # OSINT enumeration utility
 print("[*] Starting OSINT enumeration...")
 ```
-*Enumeration script… this could reveal something useful.💭*
+*Enumeration script… this could reveal something useful. Lets check!💭*
+```bash
+python3 osint/enumerate.py
+[*] Starting OSINT enumeration...
+[+] Correlating targets...
+[!] Intrusion detected!
+[!] Nice try diddy!
+[!] Honeypot activate!
 
+FLAG{OSINT_ME_AND_DIE_TRYING}
+                !!!CAUTION!!!
+[!] DEFCON 4
+[!] This system will be destroyed in 10 secs.
+```
+*Oh Shi...! That was a trap! I gotta get out of here.*
 
 
 <div align="center">
