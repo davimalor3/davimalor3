@@ -1,24 +1,62 @@
-<h2 align="center">Hi there, I'm Davi 👋</h2>
+<h5 align="center"><b>🔒 Welcome to my dark side of the web!</b></h5> 
 
-<h5 align="center">💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🎓 Computer Scientist</h5>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&width=600&lines=.;..;...;booting+abandoned+terminal...;establishing+connection...;accessing+local+system...;)](https://git.io/typing-svg)
 
----
+```bash
+> connection established
+$ whoami
+intruder
+```
 
-<h3>👨‍💻 About Me</h3>
-<p align="left">
-<b>🔒 Welcome to my dark side of the web!</b><br>
+##### *Alright, let's go in! Let's see what's in this machine...💭*
 
-- Cybersecurity student and Full Stack Developer passionate about all kinds of technology.   
-- I'm studying Computer Science at Estácio University.  
-- I've worked with C++, Python, Java and JavaScript frameworks.  
-- Obsessed with dissecting systems, understanding their internals, and rebuilding them with a deeper insight.  
-- Currently studying compilers, assembly, and low-level programming concepts.  
-- Interested in Offensive Security, Pentesting, Reverse Engineering, and Web Development.  
-- Currently improving my skills in Java | Docker | Cloud Security.  
+```bash
+$ tree
+├── user
+│   ├── profile.txt
+│   └── skills
+│       ├── languages.dat
+│       └── interests.log
+└── osint
+    ├── target_list.txt
+    └── enumerate.py
+```
+##### *Interesting...*
 
-</p>
+```yaml
+$ cat user/profile.txt
+name: Davi_Nobre
+role: Full Stack Developer
+    "Passionate about all kinds of technology and currently studying Computer Science at Estácio University. 
+    I enjoy building, exploring, and understanding how things work across the stack, driven by curiosity and new 
+    challenges. Outside of coding, I’m a gamer at heart and enjoy reconnecting with nature. Want to know more about me?
+    OSINT me… or die trying.."
+    
+$ cat user/skills/languages.dat
+develop_skills: 
+      - languages:     ['Java', 'Python', 'PHP', 'JavaScript', 'Bash', 'C/C++', 'HTML/CSS'...],
+      - frameworks:    ['Laravel', 'Spring Boot', 'Angular', 'Express.js', 'React', 'Bootstrap', 'Flask'...],
+      - databases:     ['PostgreSQL', 'MySQL', 'Redis', 'SQLite'...]
+$ cat user/skills/interests.log
+cybersecurity:
+      - interests:     ['Offensive Security', 'Reverse Engineering','Network Analysis'...]
+      - methodologies: ['OWASP', 'NIST', 'MITRE ATT&CK',...]
+      - ctfs:          [...]
 
----
+```
+
+*Wait... Cyber security? too... Offensive... CTFs? no way!💭*
+
+```bash
+$ cat osint/enumerate.py
+#!/usr/bin/env python3
+# OSINT enumeration utility
+print("[*] Starting OSINT enumeration...")
+```
+*Enumeration script… this could reveal something useful.💭*
+
+
+
 <div align="center">
 <h3><b>⚙️ Tech Stack</h3>
 
