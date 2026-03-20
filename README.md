@@ -1,6 +1,10 @@
 <h5 align="center"><b>🔒 Welcome to my dark side of the web!</b></h5> 
 
+<div align="center">
+<img src="img/first.gif" alt="first" width="500"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&width=600&lines=.;..;...;booting+abandoned+terminal...;establishing+connection...;accessing+local+system...;)](https://git.io/typing-svg)
+</div>
 
 ```bash
 > connection established
@@ -67,15 +71,20 @@ FLAG{OSINT_ME_AND_DIE_TRYING}
 [!] DEFCON 4
 [!] This system will be destroyed in 10 secs.
 ```
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=800&color=00FF41&width=600&lines=10;9;8;7;6;5;4;3;2;1;0;...;)](https://git.io/typing-svg)
+    
+
 *Oh Shi...! That was a trap! I gotta get out of here.*
+
 <div align="center">
 <img src="img/img_final.png" alt="final" width="800"/>
-</div>
+
 ---
 
 <h3>📊 GitHub Stats and Contributions</h3>
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=davimalor3&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimalor3&layout=compact&theme=tokyonight" height="160" />
 </div>
